@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AntiTheft\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AntiTheft\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\AntiTheft\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\AntiTheft\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AntiTheft\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\AntiTheft\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AntiTheft\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\AntiTheft\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

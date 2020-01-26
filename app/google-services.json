@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "742775273683",
+    "firebase_url": "https://antiheft.firebaseio.com",
+    "project_id": "antiheft",
+    "storage_bucket": "antiheft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742775273683:android:dfde40472d5e509d",
+        "android_client_info": {
+          "package_name": "com.example.admin.antitheft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742775273683-ujvlte90dti0eep70q8m7t9tmin9rtmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.antitheft",
+            "certificate_hash": "95e579682f4edef98bf54bd6e6dbae3487b65f2a"
+          }
+        },
+        {
+          "client_id": "742775273683-kn7qj8hn564aqtoguc3g09csiln9bukr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTsx7Fb5FL4V2NxNENqPyCRseP0vtGoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742775273683-kn7qj8hn564aqtoguc3g09csiln9bukr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

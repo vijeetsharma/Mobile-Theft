@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\824b711638b201b856828714a442858c3e21545f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74b8bb7789658868f444116d939d32e51ecf1abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_6c3c087a002a082c392758ab065d7908ed74e05c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4516eb4498bac5b9b845476286bd9d68bc083278\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a981ac4bbf4a96d3bca0bd87e4183f784d9e3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\63cd3a0b455f5c103c00aebb7e07886fb37f5fab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_386f1c079641168f05ff57bf850da9f927758220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e20a5098b12f10d228d15dac8202db5fa3fa03ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b4c39ab32c53543790fe75261a0916f10849eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a30a5ac05bf82c1aef5110091b2e5ccaaa5fe826\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05faf30405649792d977df3f301cd8747c393ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4ff2dd169fb47778e3e7e4065029f07318d2fd55\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcd20a33c5224a020b65c5ae53095aa813296073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\046dc085dcb537dc4d26a77384e9412cb9aaace8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbe177212c08f5aad9a55772aef4a47663984d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\d5cde79572cb87678b8a333524e4a498d44ea27a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9da43459d8e2dc3b5af0584fad6ab2c4172f8b22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9143bdd95e60ba84ebd711dc5f0ce08f2aed762a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fda0af3c1c755128cbd2e9313724a9d9291a497d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\683941afc52b237dc214b307b6d9fcaba0c74603\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1bf2c87e7d453cc693497087c8d358516de3463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\bac5425408aa4cfecd588bc762ad56cd4cd5af77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cc03f77459e3d1c0e0ff65d3b60f2754fd57885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\80a1d068efcdf5615b7047541cd1aea155fcc868\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20f3fce7818732aaffef2e625f8bcb81f35d63df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AntiTheft\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="11c53a6090e5a7d79e5165a1261f42790c7c9b7e">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e76ec149d1f9b2cb60c4d7f6859aa02d79e40f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4cfcf8563d2e3d2ba577570961a5345fd0080291\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c439038cba17f72402ce0b2c1352ced9cb0f419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\04162ca5368d2aa78864c3e4ef9bd62a49180314\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7232ab8709cdb52e4c0020e1152e067e277eb23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7c8b8cc253e913ccd7e7c26322c16b7489ae7732\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5b12fb3afc28f7225e8b5968ca1e5bd3e19eebd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ff6556b74fd4cec8d54e7f3b75e758ae55f2972a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\62bbb6bf57180fd8a94c989375ad98cc202c3518\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa2258bbae197fe5ff4e23b9233834714e1101f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\d010f70a96a303613ed35bc41737bf554959d764\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d8c8eabcb20885f4b29122f59db34b269b6060d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e283feef4e7fa69d89acf7af12e1762de086b656\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4c6ff2f8050b808bd99552bad9dcbffcefdd6a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\fda985ec962ebf574cec8bf88f4274ac4cd705d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_270cf21820c7110dd55cdc5f242c293167f5b0f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\5d608b38bea676e0b010e1e83e9884e222a361ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3f22a93c09cd720fc80a4af3952ffaec575fbd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0cb076198417126c7054e83b3d0e3250f01978c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3e470ecb2151ade52be49421d0eb4bc4fb7f2d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_b8514f4176ad96fa0be63fd371b09966d4ce6aef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.4.0_d6c547b4479b19f3c2f76f93f430e442a4396e1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2b75762888c3bbc2ecdf218caa65c1b154e6c2f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c12c6a6ee8ccfda3dc65eba5d8e8f4e8a1664a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ac5c5a782a3cb37fe8ed0658f84eeb64fb23d254\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f879ad96eaab82d18e1e5949e9b17fc99d1ad41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_2b12874bbbafbc94b3d648c1d195331ba063aa9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\35eb60e3032726408c4530587769eb69993313fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f36628009fd45d391b737c690f5c26395f6b9a68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9a1bf8b3c68f557112edfa1657bf7f8163e52beb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed13ff8161ea38ff27b1367925c81395fc99f107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\4b4a99b3238416dd1abe201f500f54dddb7fd7aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf0db18e0c366f3e771b2d4799bae12a73fcfec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_0658c3f0829d4d3c97b47772c082560dcd292628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_769827becd7d4031f032729346a97d35832b94c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\367876132291b0858c78572cdd1329fd31d0803d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0b918174ffa4f5d4866cf23f348a70ae96bae18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.4.0_fabefbcd76444b95dcd55342f95c7c5cd321a01e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\1d5c81b076c69b1263e1ac6730289f9374113c94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0724d1c7ae2ac79b9da457262b92e797e9a1bcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\7ba394653aa517e5f97df84b7027cf6a2405b565\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_941c80c2330c0e42b0fa2f0e5243953c70cca108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AntiTheft\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7dd009a53592c138f6b1b7ee614cb88453ce3c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\e325d7582e9b7e6746e871d8b22b52518035fd4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\AntiTheft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e20c2d52ad28bc7a2a4caa8cfd0dac5d4dfe511\classes.dex" />
+    </item>
+
+</items>
